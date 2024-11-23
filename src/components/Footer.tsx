@@ -7,7 +7,7 @@ export const Footer = () => {
       <div className="container mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">About TechVision</h3>
+            <h3 className="text-xl font-bold mb-4">About PradeepFarms</h3>
             <p className="text-gray-400">
               Leading the way in technological innovation and digital transformation since 2019.
               We're committed to creating solutions that empower businesses worldwide.
@@ -19,8 +19,8 @@ export const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center">
                 <Mail size={20} className="mr-2" />
-                <a href="mailto:info@techvision.com" className="text-gray-400 hover:text-white">
-                  info@techvision.com
+                <a href="mailto:info@PradeepFarms.com" className="text-gray-400 hover:text-white">
+                  info@PradeepFarms.com
                 </a>
               </div>
               <div className="flex items-center">
@@ -77,7 +77,7 @@ export const Footer = () => {
         
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-400">
-            © {new Date().getFullYear()} TechVision. All rights reserved.
+            © {new Date().getFullYear()} PradeepFarms. All rights reserved.
           </p>
         </div>
       </div>

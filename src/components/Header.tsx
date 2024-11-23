@@ -28,7 +28,7 @@ export const Header = () => {
               scrolled ? 'gradient-text' : 'text-white'
             }`}
           >
-            TechVision
+            PradeepFarms
           </motion.div>
           
           <button

@@ -5,7 +5,7 @@ const timelineData = [
   {
     year: 2019,
     title: 'The Beginning',
-    description: 'Founded TechVision with a vision to revolutionize the industry.',
+    description: 'Founded PradeepFarms with a vision to revolutionize the industry.',
     icon: '🚀',
   },
   {

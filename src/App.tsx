@@ -27,7 +27,7 @@ function App() {
               animate={{ scale: 1 }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              TechVision
+              PradeepFarms
             </motion.h1>
             <motion.p 
               className="text-xl md:text-3xl font-light"
@@ -67,7 +67,7 @@ function App() {
             <div className="absolute -bottom-20 -right-20 w-40 h-40 bg-purple-500/10 rounded-full blur-3xl" />
             <h2 className="text-5xl font-bold gradient-text mb-8">About Us</h2>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              TechVision is a pioneering technology company dedicated to transforming businesses
+              PradeepFarms is a pioneering technology company dedicated to transforming businesses
               through innovative solutions. Since our inception in 2019, we've been at the
               forefront of digital transformation, helping companies across the globe achieve
               their technological aspirations.
